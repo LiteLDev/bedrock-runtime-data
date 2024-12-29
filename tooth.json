@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "tooth": "github.com/LiteLDev/bedrock-runtime-data-tooth",
+  "version": "1.21.5010-server",
+  "info": {
+    "name": "bedrock-runtime-data",
+    "description": "",
+    "author": "LiteLDev",
+    "tags": []
+  },
+  "platforms": [
+    {
+      "asset_url": "https://github.com/LiteLDev/bedrock-runtime-data/releases/download/1.21.50.10-server/bedrock-runtime-data-windows-x64.zip",
+      "goos": "windows"
+    },
+    {
+      "asset_url": "https://github.com/LiteLDev/bedrock-runtime-data/releases/download/1.21.50.10-server/bedrock-runtime-data-linux-x86_64.zip",
+      "goos": "linux"
+    }
+  ],
+  "files": {
+    "place": [
+      {
+        "src": "bedrock_runtime_data",
+        "dest": "bedrock_runtime_data"
+      }
+    ]
+  }
+}
