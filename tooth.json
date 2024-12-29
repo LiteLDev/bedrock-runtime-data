@@ -1,6 +1,6 @@
 {
   "format_version": 2,
-  "tooth": "github.com/LiteLDev/bedrock-runtime-data-tooth",
+  "tooth": "github.com/LiteLDev/bedrock-runtime-data",
   "version": "1.21.5010-server",
   "info": {
     "name": "bedrock-runtime-data",
