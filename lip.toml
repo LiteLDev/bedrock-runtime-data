@@ -1,6 +1,6 @@
 format = 4
 id = "github.com/LiteLDev/bedrock-runtime-data"
-version = "26.60.5-client.16"
+version = "26.60.5-client.17"
 
 [info]
 name = "bedrock-runtime-data"
